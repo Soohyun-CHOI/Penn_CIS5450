@@ -1,2 +1,2 @@
-Penn Fall 2023: CIT 5450
+Penn Fall 2023: CIS 5450
 # Big Data Analytics
